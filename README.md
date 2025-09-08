@@ -13,7 +13,7 @@ We combined the pop sensibility of Japanese animation like "Summer Wars" with a 
 Final Character Visuals
 State	Image
 Seed	
-![alt text](Insert-Seed-Image-Link-Here)
+![alt text](https://github.com/LEMOplatz/rorrim-ratava/blob/main/seed.png?raw=true)
 Neutral	
 ![alt text](Insert-Neutral-Image-Link-Here)
 Joy	
