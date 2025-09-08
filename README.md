@@ -14,7 +14,7 @@ This 2-minute video encapsulates everything about our project. Please watch it v
 
 ---
 
-### 💡 Core Concept
+###  Core Concept
 
 'rorrim ratava' is not just an avatar generator. It is a living entity that discovers its identity through its 'relationship' with the user. The first encounter happens through a small, accidentally discovered glitch in the user's world, and it grows not through one-sided journaling, but through shared conversations.
 
@@ -22,7 +22,7 @@ This 2-minute video encapsulates everything about our project. Please watch it v
 
 ---
 
-### 🎨 Art Direction: "Neo-Pop Flat"
+###  Art Direction: "Neo-Pop Flat"
 
 We combined the pop sensibility of Japanese animation like "Summer Wars" with a flat design that is simple yet highly expressive. We then added digital textures such as translucent jelly, glows, and particles to achieve a unique visual identity.
 
@@ -39,7 +39,7 @@ We combined the pop sensibility of Japanese animation like "Summer Wars" with a 
 
 ---
 
-### 🛠️ How We Used the Gemini API
+###  How We Used the Gemini API
 
 We utilized the integrated power of the Gemini API to bring 'rorrim ratava' to life.
 
@@ -57,6 +57,6 @@ To overcome this, we made a bold strategic pivot. Instead of insisting on an int
 
 ---
 
-### 🌟 Future Vision
+###  Future Vision
 
 'rorrim ratava' has the potential to grow beyond a simple app into an artistic companion that aids in the user's mental care. In the future, we plan to add more diverse emotional expressions and implement an 'Ambient Mode' that reacts to the user's actual voice tone and intonation, creating an even deeper connection.
