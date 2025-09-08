@@ -6,7 +6,7 @@ An interactive digital companion that evolves based on your language.
 
 ---
 
-### 🚀 2-Minute Demo Video
+###  2-Minute Demo Video
 
 This 2-minute video encapsulates everything about our project. Please watch it via the link below.
 
