@@ -10,7 +10,7 @@ An interactive digital companion that evolves based on your language.
 
 This 2-minute video encapsulates everything about our project. Please watch it via the link below.
 
-**[▶️ Watch the 'rorrim ratava' Demo Video](Insert-Your-YouTube-Link-Here)**
+**[▶️ Watch the 'rorrim ratava' Demo Video](https://youtu.be/w2U5_xQmpLk)**
 
 ---
 
