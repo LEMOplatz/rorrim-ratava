@@ -17,7 +17,7 @@ Seed
 Neutral	
 ![alt text](Insert-Neutral-Image-Link-Here)
 Joy	
-![alt text](Insert-Joy-Image-Link-Here)
+![alt text](https://github.com/LEMOplatz/rorrim-ratava/blob/main/joy.png?raw=true)
 Sadness	
 ![alt text](Insert-Sadness-Image-Link-Here)
 (Note: The image links above should be replaced with actual image URLs, or you can display them by uploading the images directly to the repository.)
